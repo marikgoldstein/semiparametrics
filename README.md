@@ -1,0 +1,2 @@
+# semiparametrics
+reading semiparametrics
