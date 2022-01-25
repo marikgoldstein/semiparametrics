@@ -26,6 +26,7 @@ Large Models](https://arxiv.org/pdf/1903.01706.pdf)
 efficient influence functions](https://arxiv.org/pdf/2107.00681.pdf)
 - [Kennedy 2015 - Semiparametric Theory and Empirical
 Processes in Causal Inference](https://arxiv.org/pdf/1510.04740.pdf)
+- [Sen 2018 - Semiparametric Statistics](http://www.stat.columbia.edu/~bodhi/Talks/SPThNotes.pdf)
 
 ### ML and semiparametrics, including DML stuff
 - [Shi et al 2019 - Adapting Neural Networks for the Estimation of
